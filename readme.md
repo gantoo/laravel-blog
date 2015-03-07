@@ -1,15 +1,3 @@
-# laravel-blog
+# 这项目已经转移,访问新的地址
 
-## Installation
-
-git clone https://github.com/gantoo/laravel-blog.git projectname  
-cd projectname  
-composer install  
-create a database and inform .env  
-php artisan key:generate  
-php artisan migrate to create tables  
-php artisan db:seed to populate tables  
-
-default user ['ganto@qq.com' => '123456']  
-
->redis or memcache cache is required
+https://github.com/gantoday/laravel-blog
